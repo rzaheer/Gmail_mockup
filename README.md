@@ -1,13 +1,12 @@
-# Flutter Training - Session 2
+# A simple Gmail App layout
 
-This session was focused on building UI layouts and what should be the thinking process when tasked with replicating a design.
 
 ## Description
 
-Following application demonstrates building layout for gmail app home page.
+Build using Flutter.
 
 ## Application
 
-![](images/session_2_screen.png)
+![](images/gmail_mockup_screenshot.png)
 
 
